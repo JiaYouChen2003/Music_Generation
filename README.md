@@ -7,7 +7,11 @@ By using the interface we build, user can easily upload two music, one serves as
 ## Todo:
 
 *Load data
+
 *Train and test CRNN
+
 *Find StarGAN base model
+
 *Build user interface
+
 *Write report
