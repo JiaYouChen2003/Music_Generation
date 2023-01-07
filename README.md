@@ -3,15 +3,7 @@ The purpose of our project is music generation to user preference with AI to mak
 
 By using the interface we build, user can easily upload two music, one serves as a whiteboard the other serves as a preference indicator. We hope that we can generate a music as similar as the whiteboard music while keep the features of perference. 
 
+Above message is our midterm purposal. However, we did not build the user interface at last. Since it is not required. :P
 
-## Todo:
-
-*Load data
-
-*Train and test CRNN
-
-*Find StarGAN base model
-
-*Build user interface
-
-*Write report
+# Final Presentation
+https://youtu.be/F_PQYs86cBE
